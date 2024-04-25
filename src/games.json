@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "rating": 4.5,
+    "platform": ["Nintendo Switch"],
+    "multiplayer": "Нет",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/15673/c1120x1120/OOxuSPCb0kA8Gl0MwsEUAA/legend_of_zelda_breath_of_the_wild-square.jpg",
+      "https://images.stopgame.ru/screenshots/15673/legend_of_zelda_breath_of_the_wild-9.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dota 2",
+    "rating": 3.3,
+    "platform": ["PC"],
+    "multiplayer": "Есть",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/12074/c1120x1120/QThdKp36KedAVfSw2gSKlg/dota_2-square.jpg",
+      "https://images.stopgame.ru/screenshots/12074/dota_2-61.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bloodborne",
+    "rating": 4.6,
+    "platform": ["Sony PlayStation"],
+    "multiplayer": "Нет",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/14460/c1120x1120/3lavwMygs9qof-iCc0cZFA/bloodborne-square_1.jpg",
+      "https://images.stopgame.ru/screenshots/14460/bloodborne-9.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Baldur`s Gate III",
+    "rating": 4.7,
+    "platform": ["Sony PlayStation", "PC"],
+    "multiplayer": "Есть",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/19092/c1120x1120/o7ibt4sfn0QAcHMO4Qjq-A/baldur_s_gate_iii-square.jpg",
+      "https://images.stopgame.ru/screenshots/19092/baldur_s_gate_3-25.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Overcooked! 2",
+    "rating": 4.6,
+    "platform": ["Sony PlayStation", "PC", "Nintendo Switch"],
+    "multiplayer": "Локальный",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/18578/c1120x1120/kXqf0bzh1arAPc1lldDoZg/overcooked_2-square.jpg",
+      "https://images.stopgame.ru/screenshots/18578/overcooked_2-10.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Starfield",
+    "rating": 2.5,
+    "platform": ["PC"],
+    "multiplayer": "Нет",
+    "localization": "false",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/18438/c1120x1120/LPSO4UqoMApd5ygo3mkZlg/starfield-square_1.jpg",
+      "https://images.stopgame.ru/screenshots/18438/starfield-6.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Star Wars Jedi: Survivor",
+    "rating": 3.7,
+    "platform": ["Sony PlayStation", "PC"],
+    "multiplayer": "Нет",
+    "localization": "false",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/22018/c1120x1120/pOGeDu8-7LfqNvurgZzQEg/star_wars_jedi_survivor-square_3.jpg",
+      "https://images.stopgame.ru/screenshots/22018/star_wars_jedi_survivor-9.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Half-Life 2",
+    "rating": 4.6,
+    "platform": ["PC"],
+    "multiplayer": "Нет",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/1300/c1120x1120/nZ3thlclsfK3muNxUbqkeg/half_life_2-square_1.jpg",
+      "https://images.stopgame.ru/screenshots/1300/half_life_2-55.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "God of War: Ragnarök",
+    "rating": 4.5,
+    "platform": ["Sony PlayStation"],
+    "multiplayer": "Нет",
+    "localization": "true",
+    "pic": [
+      "https://images.stopgame.ru/games/logos/21043/c1120x1120/9noHywywUXfsIcpZIJSLiQ/god_of_war_ragnar_k-square_1.jpg",
+      "https://images.stopgame.ru/screenshots/21043/god_of_war_ragnar_k-18.jpg"
+    ]
+  }
+]
